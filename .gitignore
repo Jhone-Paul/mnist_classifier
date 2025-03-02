@@ -1,0 +1,4 @@
+myenv/
+__pypackages__/
+__pycache__/
+.weights.h5
